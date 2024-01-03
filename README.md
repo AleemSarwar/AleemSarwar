@@ -8,5 +8,5 @@ I'm currently focusing on improving my skills and exploring new technologies.
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Your LinkedIn Profile Link](https://www.linkedin.com/in/aleemsarwar/
+- LinkedIn: https://www.linkedin.com/in/aleemsarwar
 - Email: maleemsarwar@gmail.com
